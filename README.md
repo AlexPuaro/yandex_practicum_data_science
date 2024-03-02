@@ -1,6 +1,7 @@
 # Data_science
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
+|[<b>HR-аналитика</b>](https://github.com/AlexPuaro/Data_science/tree/main/HR-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0)|Разработать решение, которое позволит предсказать отток сотрудников из бизнеса для избежания финансовых потерь.|*pandas, numpy, matplotlib, seaborn, sklearn, phik, shap*
 |[<b>Машинное обучение в бизнесе</b>](https://github.com/AlexPuaro/Data_science/tree/main/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5)|Выбрать в каком регионе бурить новую скважину.|*pandas, numpy, matplotlib, seaborn, phik, sklearn*
 |[<b>Численные методы</b>](https://github.com/AlexPuaro/Data_science/tree/main/%D0%A7%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)|Разработать решение, которое позволит быстро узнать рыночную стоимость автомобиля.|*pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, phik*
 |[<b>Временные ряды</b>](https://github.com/AlexPuaro/Data_science/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B)|Cпрогнозировать количество заказов такси на следующий час.|*pandas, numpy, matplotlib, seaborn, statsmodels, sklearn*
