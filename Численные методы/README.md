@@ -6,7 +6,7 @@
 Разработка системы рекомендации стоимости автомобиля на основе его описания
 
 ## Навыки и инструменты
-Python, pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, phik
+python, pandas, numpy, matplotlib, seaborn, sklearn, lightgbm, phik
 
 ## Вывод
 Были проведены обработка и анализ данных, также была построена модель для опеределения рыночной стоимости автомобиля.
